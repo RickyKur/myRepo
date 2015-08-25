@@ -1,2 +1,3 @@
 # myRepo
-Whatever
+
+This is my first repo. There's nothing
